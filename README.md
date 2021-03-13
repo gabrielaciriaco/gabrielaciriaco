@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá! 👋
+Meu nome é Gabriela, eu sou uma desenvolvedora de software de <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Belo Horizonte, Brazil</b> <br/>
+Estou principalmente interessada em tecnologias de front-end e back-end.👩‍💻
 
-<!--
-**gabrielaciriaco/gabrielaciriaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaciriaco&theme=radical&show_icons=true)](https://github.com/gabrielaciriaco)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou aprendendo sobre Vue.js e aprimorando .NET Core!
+- 📚 Sou uma estudante de Sistemas de Informação na <a href="ufmg.br" target="_blank"> UFMG (Universidade Federal de Minas Gerais) </a>
+- 💬 Sinta-se à vontade para me perguntar sobre qualquer coisa, estou disposta a ensinar e aprender coisas novas à qualquer momento!
+- 🗣 Eu falo <b>Português</b> <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>
+- 😄 Pronomes: Ela/Dela :)
+- 📫 Você pode entrar em contato comigo me enviando uma mensagem no meu <a href="www.linkedin.com/in/gabriela-ciríaco/" target="_blank">perfil do Linkedin</a> ou através do e-mail <a href="mailto:gabs.ciriaco@gmail.com" target="_blank">gabs.ciriaco@gmail.com</a>
