@@ -4,7 +4,7 @@ Estou principalmente interessada em tecnologias de front-end e back-end.👩‍�
 
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaciriaco&theme=radical&show_icons=true)](https://github.com/gabrielaciriaco)
 
-- 🌱 Estou aprendendo sobre Vue.js e aprimorando .NET Core!
+- 🌱 Estou aprendendo sobre Front End e atuando como desenvolvedora Back End!
 - 📚 Sou uma estudante de Sistemas de Informação na <a href="ufmg.br" target="_blank"> UFMG (Universidade Federal de Minas Gerais) </a>
 - 💬 Sinta-se à vontade para me perguntar sobre qualquer coisa, estou disposta a ensinar e aprender coisas novas à qualquer momento!
 - 🗣 Eu falo <b>Português</b> <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>
