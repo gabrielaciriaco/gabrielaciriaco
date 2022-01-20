@@ -1,6 +1,6 @@
 ### Olá! 👋
 Meu nome é Gabriela, eu sou uma desenvolvedora de software de <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Belo Horizonte, Brazil</b> <br/>
-Estou principalmente interessada em tecnologias de front-end e back-end.👩‍💻
+Estou principalmente interessada em tecnologias de front-end.👩‍💻
 
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaciriaco&theme=radical&show_icons=true)](https://github.com/gabrielaciriaco)
 
