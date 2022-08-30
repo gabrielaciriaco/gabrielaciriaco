@@ -2,7 +2,7 @@
 My name is Gabriela, I'm a software developer from <b> Belo Horizonte, Brazil</b> <br/>
 I'm a frontend developer, and I'm very interested in frontend tecnologies 👩‍💻
 
-[![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaciriaco&theme=nightowl&show_icons=true&count_private=true)](https://github.com/gabrielaciriaco)
+[![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaciriaco&theme=nightowl&show_icons=true)](https://github.com/gabrielaciriaco)
 
 - 🌱 I'm currently learning about React, E2E testing, front end testing and Micro frontends!
 - 📚 I'm a student of information systems at <a href="ufmg.br" target="_blank"> UFMG </a>
