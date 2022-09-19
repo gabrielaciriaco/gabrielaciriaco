@@ -12,11 +12,8 @@ I'm a frontend developer, and I'm very interested in frontend tecnologies 👩�
 - 😄 Pronouns: She/Her :)
 - 📫 You can send me a message on <a href="https://linkedin.com/in/gabrielaciriaco" target="_blank">LinkedIn</a> or send an email to <a href="mailto:gabs.ciriaco@gmail.com" target="_blank">gabs.ciriaco@gmail.com</a>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=gabrielaciriaco&&style=flat-square" align="center" />
-</div>  
 <br/>
-<div align="center">
+<div box-sizing="border-box" align="center">
 <a href="https://github.com/gabrielaciriaco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
