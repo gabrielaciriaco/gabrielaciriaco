@@ -6,7 +6,7 @@ I'm a frontend developer, and I'm very interested in frontend tecnologies 👩�
 
 - 🌱 I'm currently learning about React, E2E testing, front end testing and Micro frontends!
 - 📚 I'm a student of information systems at <a href="https://www.ufmg.br" target="_blank"> UFMG </a>
-- 👨🏻‍💻 I'm a Software Engineer Front End of @ <a href="https://www.olx.com.br" targe="_blank"> Olx Brasil </a> and I workind with Vue.js and React.
+- 👨🏻‍💻 I'm a Software Engineer Front End and I workind with React.
 - 💬 Feel free to ask me anything, I'm willing to teach and learn at anytime!
 - 🗣 I speak **Portuguese** <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="16"/> and **English** <img src="https://www.svgrepo.com/show/110211/united-kingdom.svg" width="13"/>
 - 😄 Pronouns: She/Her :)
