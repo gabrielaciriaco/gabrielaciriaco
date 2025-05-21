@@ -1,13 +1,13 @@
 ### Hi! 👋
 My name is Gabriela, I'm a software developer from <b>Belo Horizonte, Brazil</b> <br/>
-I'm a full-stack developer but I'm very interested in frontend technologies 👩‍💻
+I'm a front-end developer 👩‍💻
 
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaciriaco&theme=react&show_icons=true&count_private=true)](https://github.com/gabrielaciriaco)
 
-- 🌱 I'm currently learning more about React and how to improve my CSS skills.
-- 📚 I'm a student of information systems at <a href="https://www.ufmg.br" target="_blank"> UFMG </a>
+- 🌱 I'm currently learning more about Front-end technologies.
+- 👩🏽‍🎓 I'm a graduate of information systems at <a href="https://www.ufmg.br" target="_blank"> UFMG </a>
 - 👩🏽‍🎓 I'm a computer technician at <a href="https://www.cefetmg.br/" target="_blank"> CEFET-MG </a>
-- 👩🏽‍💻 I'm a Software Engineer full stack and I work with React and Python.
+- 👩🏽‍💻 I'm a Software Engineer front-end and I work with React.
 - 💬 Feel free to ask me anything, I'm willing to teach and learn anytime!
 - 🗣 I speak **Portuguese** <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="16"/> and **English** <img src="https://www.svgrepo.com/show/110211/united-kingdom.svg" width="13"/>
 - 😄 Pronouns: She/Her :)
